@@ -4,6 +4,8 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <RootNamespace>dotnet_core_windows_service</RootNamespace>
+    <RuntimeIdentifier>win7-x64</RuntimeIdentifier>
+    <LangVersion>7.1</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
